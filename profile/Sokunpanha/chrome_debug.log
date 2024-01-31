@@ -1,0 +1,54 @@
+[11128:4480:0131/092547.997:WARNING:chrome_main_delegate.cc(668)] This is Chrome version 121.0.6167.86 (not a warning)
+[11128:4480:0131/092548.072:INFO:policy_logger.cc(144)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[11128:4480:0131/092548.072:INFO:policy_logger.cc(144)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[11128:4480:0131/092549.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[11128:4480:0131/092551.067:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[11128:4480:0131/092551.449:INFO:CONSOLE(230)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.facebook.com/ (230)
+[11128:4480:0131/092555.696:INFO:CONSOLE(241)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/cUhbE3ln2w9.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeH69bcFA3e9IqifI00Kv4qiCy1_l4lpRLcLLX-XiWlEt7DqMmRXXMx218zOYuVB_loOykKlFvMvmjWch4vt2i7W (241)
+[11128:4480:0131/092555.696:INFO:CONSOLE(241)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/cUhbE3ln2w9.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeH69bcFA3e9IqifI00Kv4qiCy1_l4lpRLcLLX-XiWlEt7DqMmRXXMx218zOYuVB_loOykKlFvMvmjWch4vt2i7W (241)
+[11128:4480:0131/092555.696:INFO:CONSOLE(241)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/cUhbE3ln2w9.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeH69bcFA3e9IqifI00Kv4qiCy1_l4lpRLcLLX-XiWlEt7DqMmRXXMx218zOYuVB_loOykKlFvMvmjWch4vt2i7W (241)
+[11128:4480:0131/092555.696:INFO:CONSOLE(241)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/cUhbE3ln2w9.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeH69bcFA3e9IqifI00Kv4qiCy1_l4lpRLcLLX-XiWlEt7DqMmRXXMx218zOYuVB_loOykKlFvMvmjWch4vt2i7W (241)
+[11128:4480:0131/092556.339:INFO:CONSOLE(70)] "ErrorUtils caught an error:
+
+Invalid timestamp supplied to millisTimeToTimestamp
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/cUhbE3ln2w9.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeH69bcFA3e9IqifI00Kv4qiCy1_l4lpRLcLLX-XiWlEt7DqMmRXXMx218zOYuVB_loOykKlFvMvmjWch4vt2i7W (70)
+[11128:4480:0131/092628.899:INFO:CONSOLE(11)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v3ik9_4/yw/l/makehaste_jhash/xu4PDNbr9W6.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeEZsP1KKevpCg02oe8Xxxro7IwuvpVuwOHsjC6-lW7A4aLjlrHFrnpBkrTAt5ZWn5Ius3O0CvFLq9us6V-jbaJh (11)
+[11128:4480:0131/092651.325:INFO:CONSOLE(11)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v3ik9_4/yw/l/makehaste_jhash/xu4PDNbr9W6.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeEZsP1KKevpCg02oe8Xxxro7IwuvpVuwOHsjC6-lW7A4aLjlrHFrnpBkrTAt5ZWn5Ius3O0CvFLq9us6V-jbaJh (11)
+[11128:3496:0131/092738.169:WARNING:page_discarding_helper.cc(126)] Discarding multiple pages with target (kb): 0
+[11128:3496:0131/092753.192:WARNING:page_discarding_helper.cc(126)] Discarding multiple pages with target (kb): 0
+[11128:7348:0131/092803.200:WARNING:page_discarding_helper.cc(126)] Discarding multiple pages with target (kb): 0
+[11128:4480:0131/092807.655:INFO:CONSOLE(11)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.xx.fbcdn.net/rsrc.php/v3ik9_4/yw/l/makehaste_jhash/xu4PDNbr9W6.js?_nc_x=VBqLV5lOLzC&_nc_eui2=AeEZsP1KKevpCg02oe8Xxxro7IwuvpVuwOHsjC6-lW7A4aLjlrHFrnpBkrTAt5ZWn5Ius3O0CvFLq9us6V-jbaJh (11)
+[11128:4480:0131/092904.150:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'speaker'.", source:  (0)
+[11128:4480:0131/092905.094:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092905.320:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092905.341:INFO:CONSOLE(24)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (24)
+[11128:4480:0131/092905.342:INFO:CONSOLE(24)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (24)
+[11128:4480:0131/092905.344:INFO:CONSOLE(24)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (24)
+[11128:4480:0131/092905.344:INFO:CONSOLE(24)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (24)
+[11128:4480:0131/092905.611:INFO:CONSOLE(5741)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (5741)
+[11128:7348:0131/092905.802:ERROR:cert_verify_proc_builtin.cc(766)] CertVerifyProcBuiltin for pagead2.googlesyndication.com failed:
+----- Certificate i=0 (CN=*.g.doubleclick.net) -----
+ERROR: No matching issuer found
+
+
+[11128:4480:0131/092906.033:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092906.136:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092906.233:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092906.313:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092906.313:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.206:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/092908.660:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://stackoverflow.com/questions/43143014/chrome-is-being-controlled-by-automated-test-software (0)
+[11128:4480:0131/093114.124:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://www.facebook.com/ (0)
+[11128:4480:0131/093146.184:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

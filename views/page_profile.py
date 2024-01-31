@@ -1,7 +1,6 @@
 import flet as ft 
 from flet_route import Params, Routing, Basket
-from component import Button_Icon
-
+from component import ProfileDataTable_ChBox
 def Profile(page:ft.Page, params: Params, basket: Basket ):
     page.title = 'Profile Page'
     params.name = "dara"
@@ -27,20 +26,15 @@ def Profile(page:ft.Page, params: Params, basket: Basket ):
                     ft.TextField(hint_text= "Search", prefix_icon= ft.icons.SEARCH, height=50, border_radius=100, content_padding=ft.padding.symmetric(0,30) , border_color="white"),
                  ft.Row(
                      controls=[
-                            Button_Icon(page,margin = 0,text = "Add", style= ft.ButtonStyle(
-                  bgcolor= ft.colors.BLACK,
-                  color= "white"
-              ),icon= ft.icons.ADD, route= "/profile-create"),
-                Button_Icon(page,margin = ft.margin.symmetric(0,5), text="Delete All", style= ft.ButtonStyle(
-                  bgcolor= ft.colors.BLACK,
-                  color= "white"
-              ),icon= ft.icons.DELETE_FOREVER, route= "/")
+                           ft.ElevatedButton("Add Account", style= ft.ButtonStyle(bgcolor= ft.colors.BLACK,color= "white"),icon= ft.icons.ADD, on_click= lambda _: page.go("/profile-create")),
+                           ft.ElevatedButton("Register All",style= ft.ButtonStyle(bgcolor= ft.colors.BLACK,color= "white"),icon= ft.icons.LOGIN)
                      ]
                  ),
            
                 ],
                 alignment= ft.MainAxisAlignment.SPACE_BETWEEN
             ),
+            ProfileDataTable_ChBox(page, params, basket,"/profile-update")
         ]
     )
         ]
